@@ -1,0 +1,30 @@
+{
+  "name": "Neon Zombie Survivor",
+  "short_name": "Zombie",
+  "description": "Prezivi valove zombija! Elite zombiji, neon krv, boss svakih 5 valova.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#39ff14",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "launchericon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
